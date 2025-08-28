@@ -24,7 +24,7 @@ Terminal: npm install .... --save dev
 
 Terminal: npm run build
 
-Запустити зкомпільований код:
+5. Запустити зкомпільований код:
 
 Terminal: npm start
 
